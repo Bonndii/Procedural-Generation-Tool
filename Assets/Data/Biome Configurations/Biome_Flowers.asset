@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06b8d5b33365c1146bf7b39edf9bc6d7, type: 3}
+  m_Name: Biome_Flowers
+  m_EditorClassIdentifier: 
+  Name: Flowers
+  minIntensity: 0.902
+  maxIntensity: 1
+  MinDecayRate: 0.008
+  MaxDecayRate: 0.012
+  ObjectPlacer: {fileID: 3158853131648778414, guid: ffb81ee5c3e728e4e8445c791d8f2a9c, type: 3}
+  minHeight: 33
+  maxHeight: 80

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6d0609553c5c1bb45b9a4d4f1571766b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Conifer_Color: {fileID: 2800000, guid: 64203d1247020ea4eab8cea697d7c806, type: 3}
+  - _Conifer_Normal: {fileID: 2800000, guid: 3d600ccf65682184a969e67b58f957b3, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

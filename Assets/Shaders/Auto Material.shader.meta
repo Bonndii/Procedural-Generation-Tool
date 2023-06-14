@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 854896841dc535d4abb76ff2c6aabd78
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Rock: {fileID: 2800000, guid: 663e749da3d96e947bf729819e0cfd8b, type: 3}
+  - _T_Perlin_Noise_M: {fileID: 2800000, guid: e6e0f469df849b9439c4c6d3b4aeb0c4, type: 3}
+  - _Variation: {fileID: 2800000, guid: b4ab6ec80b9b3d349869bb78d26eea9b, type: 3}
+  - _RockNormal: {fileID: 2800000, guid: d0f5b18d8488bf24e8898c239c556680, type: 3}
+  - _Masks_4K__ugspafgdy: {fileID: 2800000, guid: af416d2c2ac4ec74281dca09e2b1e65b, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

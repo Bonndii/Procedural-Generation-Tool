@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dfa3ab9dcec94c4c841dd1b638815eb, type: 3}
+  m_Name: ProcGen_Config
+  m_EditorClassIdentifier: 
+  Biomes:
+  - Biome: {fileID: 11400000, guid: d08abcf51c8b82c4ea0e965e1a9d2a72, type: 2}
+    Weighting: 0.15
+  - Biome: {fileID: 11400000, guid: f0c56ab571988024898a1f1268b0b4b7, type: 2}
+    Weighting: 0.15
+  - Biome: {fileID: 11400000, guid: 82650ff3a5bfe1743a2b042e084d2c0b, type: 2}
+    Weighting: 0.15
+  - Biome: {fileID: 11400000, guid: 59179d442a800ad4ca4ed21e250ab808, type: 2}
+    Weighting: 0.15
+  NumberOfSeedPoints: 100
+  InitialHeightModifier: {fileID: 11400000, guid: 9c494704345591c40a3b02724cf95e52, type: 2}
